@@ -1,0 +1,17 @@
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.DAL.deps.json
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.DAL.runtimeconfig.json
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.DAL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.DAL.pdb
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.BL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\bin\Debug\net6.0\MonSite.BL.pdb
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.csproj.AssemblyReference.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.AssemblyInfoInputs.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.AssemblyInfo.cs
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.csproj.CoreCompileInputs.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.csproj.CopyComplete
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\refint\MonSite.DAL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.pdb
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\MonSite.DAL.genruntimeconfig.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.DAL\obj\Debug\net6.0\ref\MonSite.DAL.dll

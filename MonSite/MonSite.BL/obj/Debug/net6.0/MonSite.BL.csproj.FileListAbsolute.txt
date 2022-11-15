@@ -1,0 +1,12 @@
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\bin\Debug\net6.0\MonSite.BL.deps.json
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\bin\Debug\net6.0\MonSite.BL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\bin\Debug\net6.0\MonSite.BL.pdb
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.csproj.AssemblyReference.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.AssemblyInfoInputs.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.AssemblyInfo.cs
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.csproj.CoreCompileInputs.cache
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\refint\MonSite.BL.dll
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\MonSite.BL.pdb
+D:\Visual Stedio\période 2\MonSite\MonSite.BL\obj\Debug\net6.0\ref\MonSite.BL.dll
