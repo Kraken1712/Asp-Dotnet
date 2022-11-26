@@ -36,6 +36,18 @@ namespace MonSite.DAL.Migrations
                     b.HasKey("BlogId");
 
                     b.ToTable("Blogs");
+
+                    b.HasData(
+                        new
+                        {
+                            BlogId = 1,
+                            Url = "http://blogs.packtpub.com/dotnet"
+                        },
+                        new
+                        {
+                            BlogId = 2,
+                            Url = "http://blogs.packtpub.com/dotnetcore"
+                        });
                 });
 
             modelBuilder.Entity("MonSite.BL.Comment", b =>
@@ -90,6 +102,32 @@ namespace MonSite.DAL.Migrations
                     b.HasIndex("BlogId");
 
                     b.ToTable("Posts");
+
+                    b.HasData(
+                        new
+                        {
+                            PostId = 1,
+                            BlogId = 1,
+                            Content = "Dotnet 4.7 Released Contents",
+                            PublishedDate = new DateTime(2022, 11, 20, 20, 39, 22, 91, DateTimeKind.Local).AddTicks(6939),
+                            Title = "Dotnet 4.7 Released"
+                        },
+                        new
+                        {
+                            PostId = 2,
+                            BlogId = 1,
+                            Content = ".NET Core 1.1 Released Contents",
+                            PublishedDate = new DateTime(2022, 11, 20, 20, 39, 22, 91, DateTimeKind.Local).AddTicks(6972),
+                            Title = ".NET Core 1.1 Released"
+                        },
+                        new
+                        {
+                            PostId = 3,
+                            BlogId = 2,
+                            Content = "EF Core 1.1 Released Contents",
+                            PublishedDate = new DateTime(2022, 11, 20, 20, 39, 22, 91, DateTimeKind.Local).AddTicks(6974),
+                            Title = "EF Core 1.1 Released"
+                        });
                 });
 
             modelBuilder.Entity("MonSite.BL.Comment", b =>
