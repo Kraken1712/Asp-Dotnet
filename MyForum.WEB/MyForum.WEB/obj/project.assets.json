@@ -10499,19 +10499,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Aziz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.WEB\\MyForum.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.WEB\\MyForum.WEB.csproj",
       "projectName": "MyForum.WEB",
-      "projectPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.WEB\\MyForum.WEB.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.WEB\\obj\\",
+      "projectPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.WEB\\MyForum.WEB.csproj",
+      "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.WEB\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10525,8 +10530,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {
-              "projectPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj"
+            "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {
+              "projectPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj"
             }
           }
         }

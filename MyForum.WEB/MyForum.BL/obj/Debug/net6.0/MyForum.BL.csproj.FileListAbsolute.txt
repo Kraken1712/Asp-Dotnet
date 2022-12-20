@@ -10,3 +10,15 @@ D:\Visual Stedio\période 2\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.d
 D:\Visual Stedio\période 2\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\refint\MyForum.BL.dll
 D:\Visual Stedio\période 2\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.pdb
 D:\Visual Stedio\période 2\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\ref\MyForum.BL.dll
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\bin\Debug\net6.0\MyForum.BL.deps.json
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\bin\Debug\net6.0\MyForum.BL.dll
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\bin\Debug\net6.0\MyForum.BL.pdb
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.csproj.AssemblyReference.cache
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.dll
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\refint\MyForum.BL.dll
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\MyForum.BL.pdb
+C:\Users\Aziz\Desktop\Projet\MyForum.WEB\MyForum.BL\obj\Debug\net6.0\ref\MyForum.BL.dll

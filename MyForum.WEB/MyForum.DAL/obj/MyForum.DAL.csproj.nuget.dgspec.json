@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {}
+    "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {}
   },
   "projects": {
-    "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.BL\\MyForum.BL.csproj": {
+    "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\MyForum.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.BL\\MyForum.BL.csproj",
+        "projectUniqueName": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\MyForum.BL.csproj",
         "projectName": "MyForum.BL",
-        "projectPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.BL\\MyForum.BL.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Stedio\\période 2\\MyForum.WEB\\MyForum.BL\\obj\\",
+        "projectPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\MyForum.BL.csproj",
+        "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,17 +69,21 @@
         }
       }
     },
-    "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {
+    "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj",
         "projectName": "MyForum.DAL",
-        "projectPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\MyForum.DAL.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\MyForum.DAL.csproj",
+        "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.BL\\MyForum.BL.csproj": {
-                "projectPath": "D:\\Visual Stedio\\période 2\\Myforum.WEB\\MyForum.BL\\MyForum.BL.csproj"
+              "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\MyForum.BL.csproj": {
+                "projectPath": "C:\\Users\\Aziz\\Desktop\\Projet\\MyForum.WEB\\MyForum.BL\\MyForum.BL.csproj"
               }
             }
           }
