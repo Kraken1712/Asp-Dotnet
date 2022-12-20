@@ -8,5 +8,8 @@ namespace MyForum.BL.Entities
 {
     internal class Class1
     {
+        private int ID;
+        private string Name;
+        private string Description;
     }
 }
